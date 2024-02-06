@@ -1,0 +1,7 @@
+
+
+this moment
+
+newFile.txt created 
+
+on the git command
